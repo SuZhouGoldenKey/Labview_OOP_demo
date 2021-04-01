@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Animal.lvclass" Type="LVClass" URL="../animal/Animal.lvclass"/>
+		<Item Name="Cow.lvclass" Type="LVClass" URL="../cow/Cow.lvclass"/>
 		<Item Name="demo.vi" Type="VI" URL="../demo.vi"/>
 		<Item Name="Sheep.lvclass" Type="LVClass" URL="../sheep/Sheep.lvclass"/>
 		<Item Name="Tiger.lvclass" Type="LVClass" URL="../tiger/Tiger.lvclass"/>
